@@ -21,19 +21,6 @@ A RESTful API backend for an Activity Booking application built with Node.js, Ex
 - **Validation**: express-validator
 - **Logging**: morgan
 
-## Project Structure
-
-```
-src/
-├── config/         # Configuration files
-├── controllers/    # Request handlers
-├── middleware/     # Custom middleware
-├── models/         # Database models
-├── routes/         # API routes
-├── utils/          # Utility functions
-└── server.js       # Entry point
-```
-
 ## Prerequisites
 
 - Node.js (v14 or higher)
